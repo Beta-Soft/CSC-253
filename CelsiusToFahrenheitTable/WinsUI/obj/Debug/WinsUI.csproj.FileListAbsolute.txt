@@ -1,0 +1,28 @@
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe.config
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.pdb
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csprojAssemblyReference.cache
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Form1.resources
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Properties.Resources.resources
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csproj.GenerateResource.cache
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.exe
+C:\Users\garciar2566\source\repos\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.pdb
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe.config
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.pdb
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csprojAssemblyReference.cache
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Form1.resources
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Properties.Resources.resources
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csproj.GenerateResource.cache
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.exe
+E:\Current Classes\Buckwell\C#21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.pdb
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe.config
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.exe
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\bin\Debug\WinsUI.pdb
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csprojAssemblyReference.cache
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Form1.resources
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.Properties.Resources.resources
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csproj.GenerateResource.cache
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.csproj.CoreCompileInputs.cache
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.exe
+D:\Current Classes\Buckwell\C#SPRG21\5 - Decisions and Loops\CelsiusFahrenheit\WinsUI\obj\Debug\WinsUI.pdb
